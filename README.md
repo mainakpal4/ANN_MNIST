@@ -30,3 +30,10 @@ This project demonstrates a basic ANN for digit classification using:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/mainakpal4/ANN_MNIST.git
+
+
+
+
+📊 Results
+Achieved ~98%[97.84] accuracy on test data.
+
